@@ -1,5 +1,6 @@
 <div align='center'>
-   <h2> Recent work. Stay tuned for more! </h2>
+   <img src="https://media.giphy.com/media/uMTyymkLjRQ8ribNNP/giphy.gif" width=220/>
+   <h2> Recent Work </h2>
    </div>
    
   <div align=center>
