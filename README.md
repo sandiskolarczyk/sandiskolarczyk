@@ -20,8 +20,11 @@
 
   <div align=center>
   <h3> 📺  I'm a huge fan of The Office... </h3>
-    <q>Shut up about the sun. SHUT UP ABOUT THE SUN!</q>
+  <br>
+  <p>
+  <q>I am immensely proud of what I did for that turtle!</q>
 
-&mdash; <cite>Gabe Lewis</cite>
+&mdash; <cite>Kevin Malone</cite>
 
+  </p>
   </div>
