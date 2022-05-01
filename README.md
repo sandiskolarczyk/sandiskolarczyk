@@ -51,6 +51,8 @@
    </div></h3>
 </div>
 
+<br>
+
 <div align=center>
    <h2>Quote From The Office</h2>
 </div>
