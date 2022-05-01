@@ -22,9 +22,9 @@
   <h3> 📺  I'm a huge fan of The Office... </h3>
   <br>
   <p>
-  <q>I am immensely proud of what I did for that turtle!</q>
+  <q>Sorry I annoyed you with my friendship.</q>
 
-&mdash; <cite>Kevin Malone</cite>
+&mdash; <cite>Andy Bernard</cite>
 
   </p>
   </div>
