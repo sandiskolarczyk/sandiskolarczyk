@@ -16,3 +16,12 @@
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandiskolarczyk&repo=Tribute-Page&theme=outrun">
     </a>
   </div>
+  <br>
+
+  <div align=center>
+  <h3> 📺  I'm a huge fan of The Office... </h3>
+    <q>Shut up about the sun. SHUT UP ABOUT THE SUN!</q>
+
+&mdash; <cite>Gabe Lewis</cite>
+
+  </div>

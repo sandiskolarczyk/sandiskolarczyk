@@ -16,3 +16,15 @@
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandiskolarczyk&repo=Tribute-Page&theme=outrun">
     </a>
   </div>
+  <br>
+
+  <div align=center>
+  <h3> 📺  I'm a huge fan of The Office... </h3>
+  <br>
+  <p>
+  <q>{{office_quote}}</q>
+
+&mdash; <cite>{{office_quoted_by}}</cite>
+
+  </p>
+  </div>

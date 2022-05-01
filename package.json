@@ -1,0 +1,24 @@
+{
+  "name": "sandiskolarczyk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandiskolarczyk/sandiskolarczyk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandiskolarczyk/sandiskolarczyk/issues"
+  },
+  "homepage": "https://github.com/sandiskolarczyk/sandiskolarczyk#readme",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.1.0",
+    "npm": "^8.8.0"
+  }
+}
