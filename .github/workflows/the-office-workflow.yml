@@ -3,8 +3,8 @@
 name: README with Office Quote
 on:
   schedule:
-    # Runs every hour and a half
-    - cron: '30 * * * *'
+    # Runs every 4 hours
+    - cron: '0 0/4 * * *'
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 jobs:
@@ -25,8 +25,8 @@ jobs:
           git config pull.rebase false
           git pull
           git add .
-          git config --global user.name "Sandra Skolarczyk"
-          git config --global user.email "93612381+sandiskolarczyk@users.noreply.github.com"
+          git config --global user.name "Your Name"
+          git config --global user.email "Your E-Mail"
           git commit -m "[Automated] README updated with new The Office quote!"
       - name: Push
         uses: ad-m/github-push-action@master
