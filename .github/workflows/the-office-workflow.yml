@@ -3,8 +3,8 @@
 name: README with Office Quote
 on:
   schedule:
-    # Runs every 4 hours
-    - cron: "0 0/4 * * *"
+    # Runs every 4 hours between 10am and 10pm
+    - cron: "0 10-22/4 * * *"
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 jobs:
