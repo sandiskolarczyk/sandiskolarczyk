@@ -51,8 +51,6 @@
    </div></h3>
 </div>
 
-<br>
-
 <div align=center>
    <h2>Quote From The Office</h2>
 </div>
@@ -60,9 +58,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Everybody stay calm! Stay f*&#!#% calm!</q>
+  <q>If you pray enough, you can change yourself into a cat person.</q>
 
-&mdash; <cite>Michael Scott</cite>
+&mdash; <cite>Angela Martin</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
