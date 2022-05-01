@@ -4,8 +4,8 @@
    </div>
    
   <div align=center>
-  <img src="reloved 3.0.JPEG" height=195 width=395/>
-  <img src="tribute 2.0.JPEG" height=195 width=395 />
+  <img src="reloved.JPEG" height=195 width=395/>
+  <img src="tribute.JPEG" height=195 width=395 />
   </div>
 
   <div align=center>
@@ -16,10 +16,3 @@
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandiskolarczyk&repo=Tribute-Page&theme=outrun">
     </a>
   </div>
-
-
-
-
-
-
-
