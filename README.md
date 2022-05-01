@@ -10,17 +10,17 @@
 
 <div align=center>
   <a href="https://github.com/sandiskolarczyk/ReLoved">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandiskolarczyk&repo=ReLoved&theme=outrun&hide_border=true">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandiskolarczyk&repo=ReLoved&theme=outrun">
   </a>
   <a href="https://github.com/sandiskolarczyk/Tribute-Page">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandiskolarczyk&repo=Tribute-Page&theme=outrun&hide_border=true">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandiskolarczyk&repo=Tribute-Page&theme=outrun">
   </a>
 </div>
 
 <div align=center>
    <h2>Languages & Tools</h2>
    
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandiskolarczyk&theme=aura&hide_border=true" width=320 padding-left=20 margin-left=20/>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandiskolarczyk&theme=aura" />
    
    <h3>Database
    
@@ -50,6 +50,8 @@
        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
    </div></h3>
 </div>
+  
+  <br>
   
 <div align=center>
    <h2>Quote From The Office</h2>
