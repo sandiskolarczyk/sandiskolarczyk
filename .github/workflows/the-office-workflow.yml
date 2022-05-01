@@ -4,18 +4,18 @@ name: README with Office Quote
 on:
   schedule:
     # Runs every 4 hours
-    - cron: '0 0/4 * * *'
+    - cron: "0 0/4 * * *"
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 jobs:
   update-readme-with-office-quote:
     runs-on: ubuntu-latest
-  steps:
+    steps:
       - uses: actions/checkout@v2
       - name: Install Node
-      uses: actions/setup-node@v2
-      with:
-        node-version: '14'
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14"
       - name: Install dependencies
         run: npm install
       - name: Get quote and write new README
