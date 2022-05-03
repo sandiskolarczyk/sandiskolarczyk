@@ -60,9 +60,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.</q>
+  <q>I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.</q>
 
-&mdash; <cite>Andy Bernard</cite>
+&mdash; <cite>Angela Martin</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
