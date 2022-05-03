@@ -60,9 +60,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?</q>
+  <q>I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.</q>
 
-&mdash; <cite>Creed Bratton</cite>
+&mdash; <cite>Jim Halpert</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
