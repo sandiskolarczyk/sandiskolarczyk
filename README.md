@@ -60,7 +60,7 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Once every hour, someone is involved in an internet scam. That man is Michael Scott.</q>
+  <q>There’s a lot of beauty in ordinary things. Isn’t that kind of the point?</q>
 
 &mdash; <cite>Pam Beesly</cite>
 
