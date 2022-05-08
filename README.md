@@ -60,9 +60,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Occasionally, I’ll hit somebody with my car. So sue me.</q>
+  <q>I feel God in this Chili’s tonight.</q>
 
-&mdash; <cite>Michael Scott</cite>
+&mdash; <cite>Pam Beesly</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
