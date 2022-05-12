@@ -60,9 +60,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>I'm glad Michael's getting help. He has a lot of issues, and he's stupid.</q>
+  <q>I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.</q>
 
-&mdash; <cite>Phyllis Lapin</cite>
+&mdash; <cite>Jim Halpert</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
