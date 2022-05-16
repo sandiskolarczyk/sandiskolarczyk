@@ -60,9 +60,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.</q>
+  <q>Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.</q>
 
-&mdash; <cite>Darryl Philbin</cite>
+&mdash; <cite>Dwight Schrute</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
