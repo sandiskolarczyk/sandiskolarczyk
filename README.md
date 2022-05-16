@@ -60,7 +60,7 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.</q>
+  <q>I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?</q>
 
 &mdash; <cite>Dwight Schrute</cite>
 
