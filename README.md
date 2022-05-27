@@ -61,9 +61,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>There’s a lot of beauty in ordinary things. Isn’t that kind of the point?</q>
+  <q>If you pray enough, you can change yourself into a cat person.</q>
 
-&mdash; <cite>Pam Beesly</cite>
+&mdash; <cite>Angela Martin</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
