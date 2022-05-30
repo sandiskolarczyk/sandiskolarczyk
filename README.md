@@ -61,7 +61,7 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>I. Declare. Bankruptcy!</q>
+  <q>Occasionally, I’ll hit somebody with my car. So sue me.</q>
 
 &mdash; <cite>Michael Scott</cite>
 
