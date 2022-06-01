@@ -62,9 +62,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.</q>
+  <q>Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.</q>
 
-&mdash; <cite>Pam Beesly</cite>
+&mdash; <cite>Dwight Schrute</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
