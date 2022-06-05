@@ -62,7 +62,7 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Everybody stay calm! Stay f*&#!#% calm!</q>
+  <q>Dwight, you ignorant slut!</q>
 
 &mdash; <cite>Michael Scott</cite>
 
