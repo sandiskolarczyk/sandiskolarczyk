@@ -62,7 +62,7 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Everybody stay calm! Stay f*&#!#% calm!</q>
+  <q>If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.</q>
 
 &mdash; <cite>Michael Scott</cite>
 
