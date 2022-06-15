@@ -2,20 +2,6 @@
    <img src="https://media.giphy.com/media/uMTyymkLjRQ8ribNNP/giphy.gif" width=220 height=130/>
    <h2> Recent Work </h2>
 </div>
-   
-<div align=center>
-  <img src="./img/reloved.JPEG" height=195 width=395/>
-<img src="./img/tribute.JPEG" height=195 width=395 />
-  </div>
-
-<div align=center>
-    <a href="https://github.com/sandiskolarczyk/ReLoved">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandiskolarczyk&repo=ReLoved&theme=outrun">
-    </a>
-    <a href="https://github.com/sandiskolarczyk/Tribute-Page">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandiskolarczyk&repo=Tribute-Page&theme=outrun">
-    </a>
-</div>
 
 <div align=center>
   <img src="./img/currency.PNG" height=195 width=395/>
@@ -30,6 +16,20 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandiskolarczyk&repo=Wordify&theme=outrun">
     </a>
   </div>
+   
+<div align=center>
+  <img src="./img/reloved.JPEG" height=195 width=395/>
+<img src="./img/tribute.JPEG" height=195 width=395 />
+  </div>
+
+<div align=center>
+    <a href="https://github.com/sandiskolarczyk/ReLoved">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandiskolarczyk&repo=ReLoved&theme=outrun">
+    </a>
+    <a href="https://github.com/sandiskolarczyk/Tribute-Page">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandiskolarczyk&repo=Tribute-Page&theme=outrun">
+    </a>
+</div>
   
 <div align=center>
    <h2>Languages & Tools</h2>
