@@ -76,7 +76,7 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.</q>
+  <q>I. Declare. Bankruptcy!</q>
 
 &mdash; <cite>Michael Scott</cite>
 
