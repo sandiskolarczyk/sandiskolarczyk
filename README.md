@@ -76,7 +76,7 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Sorry I annoyed you with my friendship.</q>
+  <q>You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'</q>
 
 &mdash; <cite>Andy Bernard</cite>
 
