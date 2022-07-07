@@ -76,9 +76,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Sorry I annoyed you with my friendship.</q>
+  <q>It has to be official, and it has to be urine.</q>
 
-&mdash; <cite>Andy Bernard</cite>
+&mdash; <cite>Dwight Schrute</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
