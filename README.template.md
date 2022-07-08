@@ -4,16 +4,16 @@
 </div>
 
 <div align=center>
+  <img src="./img/runnings.png" height=195 width=395/>
   <img src="./img/currency.PNG" height=195 width=395/>
-  <img src="./img/wordify.JPEG" height=195 width=395/>
   </div>
 
   <div align=center>
+    <a href="https://github.com/sandiskolarczyk/clean-runnings">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandiskolarczyk&repo=clean-runnings&theme=outrun">
+    </a>
     <a href="https://github.com/sandiskolarczyk/Exchange-Currency">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandiskolarczyk&repo=Exchange-Currency&theme=outrun">
-    </a>
-    <a href="https://github.com/sandiskolarczyk/Wordify">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandiskolarczyk&repo=Wordify&theme=outrun">
     </a>
   </div>
    
