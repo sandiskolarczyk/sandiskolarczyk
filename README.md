@@ -76,7 +76,7 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.</q>
+  <q>And I knew exactly what to do. But in a much more real sense, I had no idea what to do.</q>
 
 &mdash; <cite>Michael Scott</cite>
 
