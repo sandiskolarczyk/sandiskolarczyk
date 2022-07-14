@@ -76,7 +76,7 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Sorry I annoyed you with my friendship.</q>
+  <q>I wish there was a way to know you’re in the good old days, before you’ve actually left them.</q>
 
 &mdash; <cite>Andy Bernard</cite>
 
