@@ -76,9 +76,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.</q>
+  <q>I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?</q>
 
-&mdash; <cite>Ryan Howard</cite>
+&mdash; <cite>Dwight Schrute</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
