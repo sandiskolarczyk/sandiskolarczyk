@@ -76,7 +76,7 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>There’s a lot of beauty in ordinary things. Isn’t that kind of the point?</q>
+  <q>It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.</q>
 
 &mdash; <cite>Pam Beesly</cite>
 
