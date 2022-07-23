@@ -76,9 +76,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>I'm glad Michael's getting help. He has a lot of issues, and he's stupid.</q>
+  <q>If you pray enough, you can change yourself into a cat person.</q>
 
-&mdash; <cite>Phyllis Lapin</cite>
+&mdash; <cite>Angela Martin</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
