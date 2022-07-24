@@ -76,9 +76,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.</q>
+  <q>Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.</q>
 
-&mdash; <cite>Michael Scott</cite>
+&mdash; <cite>Erin Hannon</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
