@@ -76,7 +76,7 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>And I knew exactly what to do. But in a much more real sense, I had no idea what to do.</q>
+  <q>Well, Happy Birthday Jesus. Sorry your party’s so lame.</q>
 
 &mdash; <cite>Michael Scott</cite>
 
