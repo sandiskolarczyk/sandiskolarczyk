@@ -76,9 +76,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Once every hour, someone is involved in an internet scam. That man is Michael Scott.</q>
+  <q>I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.</q>
 
-&mdash; <cite>Pam Beesly</cite>
+&mdash; <cite>Oscar Martinez</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
