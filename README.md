@@ -76,9 +76,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.</q>
+  <q>I feel God in this Chili’s tonight.</q>
 
-&mdash; <cite>Oscar Martinez</cite>
+&mdash; <cite>Pam Beesly</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
