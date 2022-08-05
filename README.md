@@ -76,9 +76,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.</q>
+  <q>I don't talk trash, I talk smack. They're totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You're ugly and I know it for a fact 'cause I got the evidence right there.</q>
 
-&mdash; <cite>Michael Scott</cite>
+&mdash; <cite>Kelly Kapoor</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
