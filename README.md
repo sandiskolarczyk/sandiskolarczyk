@@ -76,7 +76,7 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Occasionally, I’ll hit somebody with my car. So sue me.</q>
+  <q>There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.</q>
 
 &mdash; <cite>Michael Scott</cite>
 
