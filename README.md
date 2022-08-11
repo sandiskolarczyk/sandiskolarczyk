@@ -76,9 +76,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>If you pray enough, you can change yourself into a cat person.</q>
+  <q>I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?</q>
 
-&mdash; <cite>Angela Martin</cite>
+&mdash; <cite>Dwight Schrute</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
