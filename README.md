@@ -76,7 +76,7 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.</q>
+  <q>Occasionally, I’ll hit somebody with my car. So sue me.</q>
 
 &mdash; <cite>Michael Scott</cite>
 
