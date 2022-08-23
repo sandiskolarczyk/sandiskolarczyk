@@ -76,9 +76,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>If you pray enough, you can change yourself into a cat person.</q>
+  <q>Bears, Beets, Battlestar Galactica.</q>
 
-&mdash; <cite>Angela Martin</cite>
+&mdash; <cite>Jim Halpert</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
