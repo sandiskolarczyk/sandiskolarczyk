@@ -76,9 +76,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.</q>
+  <q>I am immensely proud of what I did for that turtle!</q>
 
-&mdash; <cite>Dwight Schrute</cite>
+&mdash; <cite>Kevin Malone</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
