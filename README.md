@@ -76,7 +76,7 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Occasionally, I’ll hit somebody with my car. So sue me.</q>
+  <q>Dwight, you ignorant slut!</q>
 
 &mdash; <cite>Michael Scott</cite>
 
