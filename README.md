@@ -76,9 +76,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.</q>
+  <q>Once every hour, someone is involved in an internet scam. That man is Michael Scott.</q>
 
-&mdash; <cite>Toby Flenderson</cite>
+&mdash; <cite>Pam Beesly</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
