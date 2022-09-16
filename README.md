@@ -76,7 +76,7 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.</q>
+  <q>Bears, Beets, Battlestar Galactica.</q>
 
 &mdash; <cite>Jim Halpert</cite>
 
