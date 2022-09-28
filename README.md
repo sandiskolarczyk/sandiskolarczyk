@@ -76,7 +76,7 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.</q>
+  <q>I. Declare. Bankruptcy!</q>
 
 &mdash; <cite>Michael Scott</cite>
 
