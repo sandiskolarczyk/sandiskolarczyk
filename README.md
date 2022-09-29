@@ -76,9 +76,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>I have a lot of questions. Number one, how dare you?</q>
+  <q>If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.</q>
 
-&mdash; <cite>Kelly Kapoor</cite>
+&mdash; <cite>Michael Scott</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
