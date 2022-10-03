@@ -76,9 +76,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>Well, Happy Birthday Jesus. Sorry your party’s so lame.</q>
+  <q>I wish there was a way to know you’re in the good old days, before you’ve actually left them.</q>
 
-&mdash; <cite>Michael Scott</cite>
+&mdash; <cite>Andy Bernard</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
