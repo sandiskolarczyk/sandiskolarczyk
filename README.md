@@ -76,7 +76,7 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>I wish there was a way to know you’re in the good old days, before you’ve actually left them.</q>
+  <q>I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.</q>
 
 &mdash; <cite>Andy Bernard</cite>
 
