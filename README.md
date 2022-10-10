@@ -76,9 +76,9 @@
 <div align=center>
   <h3>As I'm a huge fan...</h3>
    
-  <q>I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.</q>
+  <q>Occasionally, I’ll hit somebody with my car. So sue me.</q>
 
-&mdash; <cite>Angela Martin</cite>
+&mdash; <cite>Michael Scott</cite>
 
    <img src="https://media.giphy.com/media/tg78WUatYcK5OQhPot/giphy.gif" width=60 height=50/>
 </div>
